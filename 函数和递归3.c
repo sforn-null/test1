@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-//ÓÃÑ­»·µÄ·½Ê½×önµÄ½×³Ë
+//ç”¨å¾ªç¯çš„æ–¹å¼åšnçš„é˜¶ä¹˜
 int Fac1(int n)
 {
 	int i=0;
@@ -21,7 +21,7 @@ int main()
 	return 0;
  } 
 
-//ÓÃµİ¹éµÄ·½·¨×önµÄ½×³Ë 
+//ç”¨é€’å½’çš„æ–¹æ³•åšnçš„é˜¶ä¹˜ 
 int Fac2(int n)
 {
 	if(n<=1)
