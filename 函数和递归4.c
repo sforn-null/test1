@@ -1,5 +1,5 @@
 #include<stdio.h>
-//�õݹ���쳲���������,���ռ临�Ӷ�̫�� 
+//用递归求斐波那契数列,但空间复杂度太高 
 int fib(int n)
 {
 	if(n<=2)
@@ -17,7 +17,7 @@ int main()
 	return 0;
 }
 
-//�õ����ķ�����쳲���������
+//用迭代的方法求斐波那契数列
 
  int fib(int n)
  {
